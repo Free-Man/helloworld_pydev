@@ -2,6 +2,10 @@
 ## Eclipse
 #################
 
+# Custom
+*.pyc
+
+# Generated
 *.pydevproject
 .project
 .metadata
