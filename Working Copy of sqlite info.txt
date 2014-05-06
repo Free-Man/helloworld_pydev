@@ -1,0 +1,6 @@
+-superuser
+dominus
+-email
+goodbyefreeman@gmail.com
+-pw
+none
